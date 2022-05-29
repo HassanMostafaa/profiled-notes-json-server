@@ -1,3 +1,6 @@
 {
-  "data": [{ "test": "data" }, { "test": "data2" }]
+  "data": [
+    { "id": "1", "test": "data" },
+    { "id": "2", "test": "data2" }
+  ]
 }
