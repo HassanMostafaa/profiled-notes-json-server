@@ -1,13 +1,12 @@
 {
   "users": [
-    { "id": "1", "test": "data" },
     {
-      "id": "2",
-      "test": "data2",
+      "id": "1",
+      "test": "data1",
       "notes": [
         {
           "id": "1",
-          "body": "note data body",
+          "body": "note1 data body",
           "userId": "1",
           "createdAt": "time"
         },
