@@ -8,13 +8,11 @@
       "notes": [
         {
           "noteTitle": "Note One Title",
-          "noteBody": "Note one body for admin",
-          "noteColor": "#fff2b5"
+          "noteBody": "Note one body for admin"
         },
         {
           "noteTitle": "Note two Title",
-          "noteBody": "Note Two body for admin user",
-          "noteColor": "#fff2b5"
+          "noteBody": "Note Two body for admin user"
         }
       ],
       "createdAt": "1-1-1111"
@@ -27,13 +25,11 @@
       "notes": [
         {
           "noteTitle": "Note One Title",
-          "noteBody": "Note one body for Hassan",
-          "noteColor": "#fff2b5"
+          "noteBody": "Note one body for Hassan"
         },
         {
           "noteTitle": "Note two Title",
-          "noteBody": "Note Two body for hassan user",
-          "noteColor": "#fff2b5"
+          "noteBody": "Note Two body for hassan user"
         }
       ],
       "createdAt": "2-2-2222"
