@@ -19,4 +19,4 @@ server.listen(server_port, server_host, () => {
 var http = require("http");
 setInterval(function () {
   http.get("https://profiled-notes-json-server.herokuapp.com/users");
-}, 2400000); // every 40 minutes (3.400.000)
+}, 1000000); 
